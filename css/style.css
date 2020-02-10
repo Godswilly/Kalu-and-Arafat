@@ -1,0 +1,28 @@
+#welcome-section{
+  padding-top: 0px;
+  margin-top: 0px;
+  display: block;
+  height: 50vh;
+}
+
+
+
+
+
+@media (vw-700px){
+ .one{
+    color:yellow;
+    font-size:60px;
+  }
+}
+
+
+#navbar {
+	
+background-color: #5eed89;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 10%;
+  padding-top: 20px;
+
